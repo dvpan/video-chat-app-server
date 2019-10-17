@@ -1,1 +1,1 @@
-React + Socket.io + WebRTC = Video Chat App
+Node.js+ Socket.io + WebRTC = Video Chat App
